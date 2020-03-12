@@ -76,8 +76,8 @@
 				"Runtime": "nodejs10.x",
 				"Timeout": "25",
 				"Code": {
-					"S3Bucket": "amplify-iotdashboard-sandbox-131117-deployment",
-					"S3Key": "amplify-builds/updatesensor-45653139546a324c5732-build.zip"
+					"S3Bucket": "amplify-iotdashboard-mysandbox-43312-deployment",
+					"S3Key": "amplify-builds/updatesensor-5364326d4d516e50445a-build.zip"
 				}
 			}
 		},
